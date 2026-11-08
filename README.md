@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Divide and Conquer
 |  |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
