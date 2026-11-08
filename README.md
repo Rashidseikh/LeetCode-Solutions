@@ -6,23 +6,35 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
