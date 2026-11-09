@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0071-simplify-path](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0692-top-k-frequent-words](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
