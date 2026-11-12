@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0692-top-k-frequent-words](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 ## Prefix Sum
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0071-simplify-path) |
+| [0127-word-ladder](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0692-top-k-frequent-words](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0210-course-schedule-ii](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -140,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
