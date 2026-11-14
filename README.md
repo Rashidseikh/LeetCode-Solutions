@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0802-find-eventual-safe-states](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0210-course-schedule-ii](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0802-find-eventual-safe-states](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
