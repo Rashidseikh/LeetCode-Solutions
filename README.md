@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0565-array-nesting](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0565-array-nesting) |
 | [0692-top-k-frequent-words](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## String
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0802-find-eventual-safe-states](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Topological Sort
