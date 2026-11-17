@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0565-array-nesting](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0565-array-nesting) |
 | [0692-top-k-frequent-words](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0692-top-k-frequent-words](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Prefix Sum
@@ -194,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
