@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0565-array-nesting](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0565-array-nesting) |
 | [0692-top-k-frequent-words](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0692-top-k-frequent-words](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Prefix Sum
 |  |
