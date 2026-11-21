@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0397-integer-replacement) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0633-sum-of-square-numbers](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
