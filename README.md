@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Graph Theory
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0633-sum-of-square-numbers](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Bidirectional Search
@@ -247,4 +250,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
