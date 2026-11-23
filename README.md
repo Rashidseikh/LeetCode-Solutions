@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0565-array-nesting](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0565-array-nesting) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0210-course-schedule-ii](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0397-integer-replacement) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Simulation
@@ -249,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Design
 |  |
