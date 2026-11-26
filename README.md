@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0565-array-nesting](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0565-array-nesting) |
 | [0743-network-delay-time](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0743-network-delay-time) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0565-array-nesting](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0565-array-nesting) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0743-network-delay-time](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-swim-in-rising-water](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0210-course-schedule-ii](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0743-network-delay-time](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
@@ -177,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Kosaraju's Algorithm
@@ -247,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0397-integer-replacement) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -274,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0397-integer-replacement) |
 ## Dijkstra's Algorithm
 |  |
@@ -338,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
