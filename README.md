@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0397-integer-replacement) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Breadth-First Search
 |  |
