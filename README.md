@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0565-array-nesting](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0565-array-nesting) |
+| [0721-accounts-merge](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0912-sort-an-array](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0565-array-nesting](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0565-array-nesting) |
 | [0692-top-k-frequent-words](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0912-sort-an-array](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0692-top-k-frequent-words](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Prefix Sum
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0692-top-k-frequent-words](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -173,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0721-accounts-merge](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -227,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Rashidseikh/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
